@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+shap
+pillow
+matplotlib
+numpy
+medmnist
+opencv-python
+opencv-python-headless
